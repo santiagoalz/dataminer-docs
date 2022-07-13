@@ -10,6 +10,6 @@ uid: Part6Troubleshooting
 
 - [Troubleshooting procedures](xref:Troubleshooting_procedures)
 
-- [Finding a root cause](xref:Finding_a_root_cause)
+- [Troubleshooting flowcharts](xref:Troubleshooting_flowcharts)
 
 - [Customer DataMiner Reporting (CDMR)](xref:CDMR)

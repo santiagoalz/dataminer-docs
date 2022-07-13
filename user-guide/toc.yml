@@ -2520,6 +2520,11 @@
           topicUID: Sharing_dashboard_window_does_not_disappear
         - name: Cassandra does not start up after a server restart
           topicUID: Cassandra_not_starting_up_after_server_restart
+    - name: Troubleshooting flowcharts
+      topicUID: Troubleshooting_flowcharts
+      items:
+        - name: Finding a root cause
+          topicUID: Finding_a_root_cause
     - name: Customer DataMiner Reporting (CDMR)
       topicUID: CDMR
 - name: Reference
